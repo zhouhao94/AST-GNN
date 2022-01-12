@@ -38,5 +38,5 @@ To use the pretrained models at `checkpoint/` and evaluate the models performanc
 ```bash
 test.py
 ```
-Please note: The initiation of training and testing might take a while as the code creates a cache to store the spatio-temporal graphs.
-
+Note-1: The initiation of training and testing might take a while as the code creates a cache to store the spatio-temporal graphs.
+Note-2: The code is partially based on Social-STGCNN (https://github.com/abduallahmohamed/Social-STGCNN).
