@@ -1,16 +1,6 @@
 # AST-GNN: An attention-based spatio-temporal graph neural network for Interaction-aware pedestrian trajectory prediction
 ### Hao Zhou, Dongchun Ren, Huaxia Xia, Mingyu Fan, Xu Yang, Hai Huang <br />
 
-
-### AST-GNN
-<div align='center'>
-<img src="images/Social-STGCNN-Teaser_.jpg"></img>
-</div>
-<br />
-
-We propose the Social Spatio-Temporal Graph Convolutional Neural Network (Social-STGCNN), which models the problem of human trajectory prediction as a spatio-temporal graph. Our results show an improvement over the state of art by 20\% on the Final Displacement Error (FDE) and an improvement on the Average Displacement Error (ADE) with 8.5 times less parameters and up to 48 times faster inference speed than previously reported methods. In addition, our model is data efficient, and exceeds previous state of the art on the ADE metric with only 20\% of the training data. We propose a kernel function to embed the social interactions between pedestrians within the adjacency matrix.
-
-Our model inference speed is 0.002s/frame (500Hz) using only 7.6K parameters.
 ### Citaion
 You can cite our paper using: 
 ```
