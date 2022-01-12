@@ -4,12 +4,14 @@
 ### Citaion
 You can cite our paper using: 
 ```
-@InProceedings{Mohamed_2020_CVPR,
-author = {Mohamed, Abduallah and Qian, Kun and Elhoseiny, Mohamed and Claudel, Christian},
-title = {Social-STGCNN: A Social Spatio-Temporal Graph Convolutional Neural Network for Human Trajectory Prediction},
-booktitle = {IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)},
-month = {June},
-year = {2020}
+@article{zhou2021ast,
+  title={AST-GNN: An attention-based spatio-temporal graph neural network for Interaction-aware pedestrian trajectory prediction},
+  author={Zhou, Hao and Ren, Dongchun and Xia, Huaxia and Fan, Mingyu and Yang, Xu and Huang, Hai},
+  journal={Neurocomputing},
+  volume={445},
+  pages={298--308},
+  year={2021},
+  publisher={Elsevier}
 }
 ```
 
