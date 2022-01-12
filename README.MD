@@ -29,14 +29,14 @@ or you can have everything set up by running:
 pip install -r requirements.txt
 ```
 ### Using the code:
-To use the pretrained models at `checkpoint/` and evaluate the models performance run:
-```bash
-test.py
-```
-
 To train a model for each data set with the best configuration as in the paper, simply run:
 ```bash
 ./train.sh  
+```
+
+To use the pretrained models at `checkpoint/` and evaluate the models performance run:
+```bash
+test.py
 ```
 Please note: The initiation of training and testing might take a while as the code creates a cache to store the spatio-temporal graphs.
 
