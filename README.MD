@@ -1,9 +1,8 @@
 # AST-GNN: An attention-based spatio-temporal graph neural network for Interaction-aware pedestrian trajectory prediction
 ### Hao Zhou, Dongchun Ren, Huaxia Xia, Mingyu Fan, Xu Yang, Hai Huang <br />
-##### <sup>**</sup> Equal advising
-Read full paper <a href="https://arxiv.org/abs/2002.11927">here</a>, Presented at [CVPR 2020](http://cvpr2020.thecvf.com/)
 
-### Social-STGCNN
+
+### AST-GNN
 <div align='center'>
 <img src="images/Social-STGCNN-Teaser_.jpg"></img>
 </div>
