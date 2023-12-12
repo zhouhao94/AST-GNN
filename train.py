@@ -122,7 +122,7 @@ if args.use_lrschd:
     
 
 
-checkpoint_dir = './checkpoint/'+args.tag+'/'
+checkpoint_dir = './checkpoint/astgnn/'+args.tag+'/'
 
 if not os.path.exists(checkpoint_dir):
     os.makedirs(checkpoint_dir)
